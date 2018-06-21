@@ -1,2 +1,2 @@
 # test-clone
-this chang is for test.
+deleted in master branch
